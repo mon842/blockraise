@@ -1,4 +1,4 @@
-import { createCampaign, dashboard } from '../assets';
+import { createCampaign, dashboard, about } from '../assets';
 
 export const navlinks = [
   {
@@ -10,5 +10,10 @@ export const navlinks = [
     name: 'campaign',
     imgUrl: createCampaign,
     link: '/create-campaign',
+  },
+  {
+    name: 'about',
+    imgUrl: about,
+    link: '/about',
   }
 ];

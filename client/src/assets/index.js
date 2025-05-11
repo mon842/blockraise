@@ -1,6 +1,6 @@
 import createCampaign from './create-campaign.svg';
-import dashboard from './dashboard.svg';
-import logo from './logo.svg';
+import dashboard from './dashboard3.svg';
+import logo from './BLOCKRAISE_icon.svg';
 import logout from './logout.svg';
 import payment from './payment.svg';
 import profile from './profile.svg';
@@ -12,8 +12,9 @@ import menu from './menu.svg';
 import money from './money.svg';
 import loader from './loader.svg';
 import thirdweb from './thirdweb.png';
-
+import about from './witness.svg';
 export {
+  about,
   tagType,
   createCampaign,
   dashboard,
